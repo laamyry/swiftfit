@@ -1,5 +1,5 @@
 # SWIFTFIT
-[![Watch the video](https://github.com/laamyry/SwiftFit/blob/master/public/SwiftFit-icon.png)](https://youtu.be/yjGI2XbWOAc)
+[![Watch the video](https://swift-fit.vercel.app/static/media/SwiftFit-lighter.ce2c12f0f148240d659d.png)](https://youtu.be/yjGI2XbWOAc)
 
 `Group project` `Web Portfolio project`
 
@@ -30,7 +30,7 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 
 AUTHORS
 
-* Med Laamyry **[Github](https://github.com/laamyry)** , **[twitter](https://twitter.com/medlaamyry)**, **[Linkedin](https://www.linkedin.com/in/medlaamyry)**
+* Mohamed Laamyry **[Github](https://github.com/laamyry)** , **[twitter](https://twitter.com/medlaamyry)**, **[Linkedin](https://www.linkedin.com/in/medlaamyry)**
 * Abdesslam MEKOUAR **[Github](https://github.com/abdesslammekouar)** , **[twitter](https://twitter.com/slymofpv)**, **[Linkedin](https://linkedin.com/in/amekouar)**
 
 
@@ -53,10 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
