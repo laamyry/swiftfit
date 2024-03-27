@@ -1,4 +1,3 @@
-import image from "../Assets/image.jpg";
 import QUANTITY from "./Quantity";
 import data from "../Data/products.json";
 export default function Cart() {
