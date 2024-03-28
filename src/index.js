@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Apparel from "./pages/Apparel";
 import Contact from "./pages/Contact";
 import Equipment from "./pages/Equipment";
+import Checkout from "./pages/Checkout";
 import Nutrition from "./pages/Nutrition";
 import {
   createBrowserRouter,
@@ -41,6 +42,10 @@ const router = createBrowserRouter([
   {
     path: "/nutrition",
     element: <Nutrition />,
+  },
+  {
+    path: "/checkout",
+    element: <Checkout />,
   },
 ]);
 root.render(
