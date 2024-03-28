@@ -12,7 +12,7 @@ export default function Home() {
       <Slider className="z-0" />
 
       <Hotsales />
-      <OffersEq/>
+      <OffersEq />
       <Productslider />
       <OffersApp />
       <Footer />
