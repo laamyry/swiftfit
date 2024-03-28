@@ -2,7 +2,8 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Slider from "../components/Slider";
 import Hotsales from "../components/Hotsales";
-import OFFERS from "../components/OffersEq";
+import OffersEq from "../components/OffersEq";
+import OffersApp from "../components/OffersApp";
 import Productslider from "../components/Productslider";
 export default function Home() {
   return (
@@ -11,8 +12,9 @@ export default function Home() {
       <Slider className="z-0" />
 
       <Hotsales />
-      <OFFERS className=""/>
+      <OffersEq/>
       <Productslider />
+      <OffersApp />
       <Footer />
     </>
   );
